@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Version 1.0
+
+CACHE:
+genially.html
+css/css2.css
+css/view.0.0.79.css
+css/main.fabe06f5.css
+css/css.css
+css/css_3.css
+css/css_1.css
+css/css_2.css
+css/css_4.css
+images/53efb021-c2b9-47f5-89c0-e8359b663889.png
+images/da7b7a41-7f51-4bb4-8025-e77d8f1b952e.png
+static/js/main.js
+
+NETWORK:
+*
